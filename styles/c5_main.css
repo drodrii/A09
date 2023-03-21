@@ -3,6 +3,10 @@
 	--global-color-1: #800000;
 }
 
+html{
+	background-color:#fffded;	
+}
+
 *{
 	margin: 0;
 	padding: 0;
